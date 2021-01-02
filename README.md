@@ -1,16 +1,16 @@
-### Hi there 👋
+[![✊ ∙ An injury to one is an injury to all ∙ Industrial Workers of the World ∙ IWW](https://media.giphy.com/media/mC23iiUyLMzqLbCEQU/giphy.gif)](https://iww.nyc)
 
-<!--
-**iwwnyc/iwwnyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Want to get involved with IWW NYC Tech? :computer: [***Contact us! :e-mail:***](mailto:tech@iww.nyc)
 
-Here are some ideas to get you started:
+[**Learn more about IWW membership 🐈‍⬛**](https://iww.nyc/join)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [:octocat: IWW GitHub Org](https://github.com/iww)
+## [:globe_with_meridians: iww.nyc](https://iww.nyc)
+
+## [:bird: Twitter](https://twitter.com/iwwnyc)
+## [:camera_flash: Instagram](https://instagram.com/iwwnyc)
+## [🇫Facebook](https://facebook.com/iwwnyc)
+## [🦣 Mastodon](https://mastodon.social/@iwwnyc)
+## [:newspaper_roll: Industrial Worker](https://industrialworker.org)
+
+*Labor is entitled to all it produces.*
