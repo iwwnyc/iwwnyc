@@ -10,7 +10,7 @@ Want to get involved with IWW NYC Tech? :computer: [***Contact us! :e-mail:***](
 ## [:bird: Twitter](https://twitter.com/iwwnyc)
 ## [:camera_flash: Instagram](https://instagram.com/iwwnyc)
 ## [🇫Facebook](https://facebook.com/iwwnyc)
-## [:mammoth: Mastodon](https://mastodon.social/@iwwnyc)
+## [🦣 Mastodon](https://mastodon.social/@iwwnyc)
 ## [:newspaper_roll: Industrial Worker](https://industrialworker.org)
 
 *Labor is entitled to all it produces.*
